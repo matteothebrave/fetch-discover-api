@@ -8,3 +8,4 @@ GET / PUT / UPDATE / DELETE
 ## Study purpose only;
 ## Made using @RocketSeat class method (Discover);
 
+Next commit -> Make it using git
